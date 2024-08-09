@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "title": "Full Stack Development",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+        "description": "Best Full-Stack Development Project Ideas in 2024",
+        "Date": "06 Aug, 2024"
+    },
+    {
+        "id": 2,
+        "title": "Full Stack Development",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2023/07/how-long-it-would-it-take-to-learn-full-stack-development_.webp",
+        "description": "How Long Would It Take to Be a Full Stack Developer?",
+        "Date": "26 Mar, 2024"
+    },
+    {
+        "id": 3,
+        "title": "Full Stack Development",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2024/03/Feature-3.webp",
+        "description": "7 Unique Web Development Project Ideas for Beginners",
+        "Date": "02 Apr, 2024"
+    },
+    {
+        "id": 4,
+        "title": "Data Science",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Top-High-Paying-Non-Coding-Jobs-in-Data-Science.webp",
+        "description": "Top 10 High Paying Non-Coding Jobs in Data Science in 2024",
+        "Date": "23 Jul, 2024"
+    },
+    {
+        "id": 5,
+        "title": "Data Science",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2023/07/Real-World-Data-Science-Examples.webp",
+        "description": "12 Real-World Data Science Examples: Power Of Data Science",
+        "Date": "25 Mar, 2024"
+    },
+    {
+        "id": 6,
+        "title": "Data Science",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2022/06/5.-data-science.png",
+        "description": "Can A Commerce Student Do Data Science?",
+        "Date": "16 Apr, 2024"
+    },
+    {
+        "id": 7,
+        "title": "Cyber Security",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Cybersecurity.webp",
+        "description": "Non-Coding Jobs in Cybersecurity: A Comprehensive Guide",
+        "Date": "26 Mar, 2024"
+    },
+    {
+        "id": 8,
+        "title": "Cyber Security",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner.png",
+        "description": "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
+        "Date": "16 Apr, 2024"
+    },
+    {
+        "id": 9,
+        "title": "Cyber Security",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp",
+        "description": "What Is Hacking? Types of Hacking & More",
+        "Date": "25 Mar, 2024"
+    },
+    {
+        "id": 10,
+        "title": "Career",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2024/08/Careers-in-Data-Science.webp",
+        "description": "Top 10 Data Science Job Profiles (Careers in Data Science)",
+        "Date": "06 Aug, 2024"
+    },
+    {
+        "id": 11,
+        "title": "Career",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2024/08/devops_vs_data_science_which_career_is_best_.webp",
+        "description": "DevOps vs Data Science: Which Career is Best?",
+        "Date": "03 Aug, 2024"
+    },
+    {
+        "id": 12,
+        "title": "Career",
+        "image": "https://www.guvi.in/blog/wp-content/uploads/2020/12/tumbnail-img-2-scaled.jpg",
+        "description": "MEAN vs MERN: Career Growth & Salary",
+        "Date": "29 Jul, 2024"
+    }
+]
